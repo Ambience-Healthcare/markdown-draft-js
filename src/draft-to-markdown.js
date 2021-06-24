@@ -29,7 +29,7 @@ const StyleItems = {
   // BLOCK LEVEL
   'unordered-list-item': {
     open: function () {
-      return '- ';
+      return '* ';
     },
 
     close: function () {
